@@ -1,11 +1,11 @@
 # Hi 👋 I'm Putra Irawan
 
 💻 Web & Front-End Developer with 9+ years of experience  
-🚀 Specialized in building scalable, high-performance web applications  
+🚀 Specialized in building scalable, high-performance web applications and mobile android & iod
 
 ## 🔧 Tech Stack
-- Frontend: React, Next.js, TypeScript, Tailwind CSS, Shadcn UI
-- Backend: Node.js, NestJS, Prisma
+- Frontend: React, Next.js, TypeScript, Tailwind CSS, Shadcn UI, React Native, Flutter
+- Backend: Node.js, NestJS, Prisma, Laravel, GO
 - Database: PostgreSQL, MySQL, Redis
 - Tools: Git, Docker, REST API, Stripe / Midtrans
 - Testing: Jest, React Testing Library
