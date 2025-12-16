@@ -20,27 +20,27 @@
 
 Web Applications (React / Next.js / Vue / Angular):
 
-https://bomber.app/features/
-https://partner.moratest.id/kreditagen/login
-https://fazz.com/id
-https://app.fazz.com/
-https://www.modalrakyat.id/
-https://www.modalrakyat.id/blog/hedge-fund
+- https://bomber.app/features/
+- https://partner.moratest.id/kreditagen/login
+- https://fazz.com/id
+- https://app.fazz.com/
+- https://www.modalrakyat.id/
+- https://www.modalrakyat.id/blog/hedge-fund
 
 
 Shopify Websites:
 
-https://urbanasacs.com/
-https://www.houseplant.com/
-https://www.staples.ca/
-https://harperwilde.com/
-https://www.allbirds.com/
+- https://urbanasacs.com/
+- https://www.houseplant.com/
+- https://www.staples.ca/
+- https://harperwilde.com/
+- https://www.allbirds.com/
 
 
 Mobile Applications (Play Store / App Store):
-AYO SRC KASIR
-AYO SRC RETAIL
-MAMI KOST
+- AYO SRC KASIR
+- AYO SRC RETAIL
+- MAMI KOST
 
 ## 📫 Contact
 - Email: putrairawan993@gmail.com
