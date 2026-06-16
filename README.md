@@ -1,87 +1,182 @@
-# Hi 👋 I’m Putra Irawan
+# Hi 👋 I'm Putra Irawan
 
-💻 **Web, Mobile & Full-Stack Developer** with **9+ years of experience**  
-🚀 Specialized in building **scalable, high-performance web applications** and **mobile apps (Android & iOS)**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;Web+%2B+Mobile+Developer;AI+Engineer+%26+Automation+Specialist;9%2B+Years+of+Professional+Experience" />
+</p>
+
+<h3 align="center">
+🚀 Full Stack Engineer | Mobile Developer | AI Engineer
+</h3>
+
+<p align="center">
+Building scalable web applications, mobile apps, enterprise systems, AI solutions, and cloud-native platforms.
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-I’m a software developer with strong experience in **frontend, backend, and mobile development**.  
-I enjoy turning complex business requirements into **clean, maintainable, and scalable solutions**, and I’m comfortable working with startups, enterprises, and cross-functional teams.
+## 👨‍💻 About Me
+
+* 💼 9+ years of software engineering experience
+* 🌎 Worked with startups, enterprises, government & fintech companies
+* 🏦 Ex-Traveloka, KoinWorks, Amartha
+* 🏥 Healthcare Integration Specialist (FHIR & HL7)
+* 🤖 AI Engineer (OpenAI, Gemini, Claude, LangChain, RAG)
+* 📱 Mobile Developer (Flutter & React Native)
+* ☁️ Cloud & DevOps Enthusiast
 
 ---
 
-## 🔧 Tech Stack
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/putra-irawan-480766126">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:putrairawan993@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/putrairawan992">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
 
 ### Frontend
-- React, Next.js, TypeScript  
-- Tailwind CSS, Shadcn UI  
-- Vue.js, Angular  
-- React Native, Flutter  
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,typescript,javascript,tailwind,flutter" />
+</p>
 
 ### Backend
-- Node.js, NestJS, Express.js  
-- Prisma, Laravel, Go  
-- Python, .NET, C#  
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,python,php,laravel,dotnet,rust" />
+</p>
 
 ### Database
-- PostgreSQL, MySQL, Redis  
 
-### Tools & Services
-- Git, Docker  
-- REST API  
-- Stripe, Midtrans  
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-### Testing
-- Jest, React Testing Library  
+### DevOps & Cloud
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git" />
+</p>
 
-## 📌 What I Do
-- Build modern web platforms from **UI/UX designs**
-- Develop **scalable backend services & APIs**
-- Implement **authentication, authorization & subscription payment systems**
-- Integrate **third-party APIs** (TikTok, payment gateways, external services)
-- Optimize **performance, security, and maintainability**
+### AI & Automation
 
----
-
-## 🧩 Selected Projects
-
-### 🌐 Web Applications  
-*(React / Next.js / Vue / Angular)*
-
-- https://bomber.app/features/
-- https://partner.moratest.id/kreditagen/login
-- https://fazz.com/id
-- https://app.fazz.com/
-- https://www.modalrakyat.id/
-- https://www.modalrakyat.id/blog/hedge-fund
+* OpenAI API
+* Gemini API
+* Claude API
+* LangChain
+* RAG Architecture
+* AI Agents
+* n8n
+* Pinecone
+* Qdrant
 
 ---
 
-### 🛒 Shopify Websites
-- https://urbanasacs.com/
-- https://www.houseplant.com/
-- https://www.staples.ca/
-- https://harperwilde.com/
-- https://www.allbirds.com/
+## 🔥 Featured Projects
+
+### 🌐 Enterprise & Web Platforms
+
+* Bomber App & Reservation Platform
+* CHI Ecosystem Event Platform
+* Talent X ID
+* ICOS BCA
+* Warehouse Management System
+* Salesforce ERP
+* Access Management System
+* Workflow Dashboard
+* WhatsApp Gateway
+
+### 🏦 Fintech
+
+* Fazz
+* KoinWorks
+* Amartha
+* Modal Rakyat
+* Tokopolis
+
+### 🏛 Government
+
+* BAPENDA DKI Jakarta
+* Kementerian Desa
+* TEKAD MIS
+
+### 🏥 Healthcare
+
+* FHIR Integration
+* HL7 Integration
+* Healthcare API Platform
+
+### 📱 Mobile Apps
+
+* AYO SRC KASIR
+* AYO SRC TOKO
+* AYO SRC KELONTONG
+* Bomber Mobile
+* PA Tungan Property
+* Deposito Syariah
 
 ---
 
-### 📱 Mobile Applications  
-*(Play Store / App Store)*
+## 📈 GitHub Stats
 
-- **AYO SRC KASIR**
-- **AYO SRC RETAIL**
-- **MAMI KOST**
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=putrairawan992&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putrairawan992&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Experience Highlights
+
+| Company                    | Position                        |
+| -------------------------- | ------------------------------- |
+| Traveloka                  | Software Engineer               |
+| KoinWorks                  | Full Stack Engineer             |
+| Amartha                    | Engineering Manager / Developer |
+| Yaz Venture                | Healthcare Integration          |
+| Gunanusa Utama Fabricators | Full Stack Engineer             |
+| CHI Ecosystem              | Senior Frontend Engineer        |
+| Freelancer                 | Full Stack Engineer             |
+
+---
+
+## 🎯 Current Focus
+
+* AI Agents
+* RAG Systems
+* Healthcare Interoperability (FHIR/HL7)
+* Microservices Architecture
+* Next.js 15
+* NestJS
+* React Native
+* Flutter
+* Cloud Native Applications
 
 ---
 
 ## 📫 Contact
-- 📧 Email: **putrairawan993@gmail.com**
-- 🧑‍💻 GitHub: **https://github.com/putrairawan992**
+
+📧 [putrairawan993@gmail.com](mailto:putrairawan993@gmail.com)
+
+🔗 LinkedIn:
+https://linkedin.com/in/putra-irawan-480766126
+
+💻 GitHub:
+https://github.com/putrairawan992
 
 ---
 
-⭐️ *Feel free to explore my repositories or reach out if you’d like to collaborate.*
+⭐ Always open to exciting projects, consulting opportunities, and technical collaborations.
